@@ -1,0 +1,1 @@
+this dashboard analyzes HR data to provide insights into employee demographics,salaries,job titles,and workforce trends over time. the goal is to support data-driven HR decisions related to hiring,compensation,and workforce planning
